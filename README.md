@@ -45,7 +45,8 @@ Une application web de gestion des réclamations informatiques permettant aux ut
 ### Interface principale
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c3d1e801-5e14-4cd3-af15-bd2d3c5cc95e" width="900">
+  <img src="https://github.com/user-attachments/assets/edafcea8-2585-421e-aa3b-3105264a68fc" width="900">
+  
 </p>
 
 ---
@@ -53,7 +54,7 @@ Une application web de gestion des réclamations informatiques permettant aux ut
 ### Tableau de bord administrateur
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/edafcea8-2585-421e-aa3b-3105264a68fc" width="900">
+  <img src="https://github.com/user-attachments/assets/c3d1e801-5e14-4cd3-af15-bd2d3c5cc95e" width="900">
 </p>
 
 ---
